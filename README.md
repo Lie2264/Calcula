@@ -37,6 +37,7 @@ Enumeration of buttons and their meaning:
 User Interface:
 
 Calcula's user interface is uniquely flexible, providing three convenient options for entering equations:
+
 1.Button Press: Use the graphical interface to enter equations conveniently. Simply press the buttons representing numbers and operators to compose your equation.
 
 2.Keyboard Input: Calcula supports keyboard control. Enter numbers and operators using standard keys to create your equation quickly and conveniently.
