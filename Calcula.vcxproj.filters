@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Window_One.cpp">
+      <UniqueIdentifier>{634954a2-b883-44c1-b8a3-7d962f005cd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Window_Two.cpp">
+      <UniqueIdentifier>{9dd41cdf-f761-4f98-830f-d78b3eab616d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Window_One.h">
+      <UniqueIdentifier>{a237353e-f4f9-4d8b-b761-83bcf9b2aee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Window_Two.h">
+      <UniqueIdentifier>{f158696d-b42a-4de1-a665-9ee3a6b0a64f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Numbers.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Sings.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Other_Things.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="CanAddSing.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Defoult_Photo_Window2.cpp">
+      <Filter>Исходные файлы\Window_Two.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Исходные файлы\Window_One.cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DesingCalculator.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CanAddSing.h">
+      <Filter>Файлы заголовков\Window_One.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Logic.h">
+      <Filter>Файлы заголовков\Window_One.h</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков\Window_Two.h</Filter>
+    </ClInclude>
+    <ClInclude Include="TransmitLinks_to_Photo.h">
+      <Filter>Файлы заголовков\Window_Two.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>Файлы заголовков\Window_One.h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
