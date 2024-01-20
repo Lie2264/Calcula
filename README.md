@@ -20,25 +20,15 @@ A brief description of the functionality:
 
 Enumeration of buttons and their meaning:
 1. [?]: Pressing the question mark reveals additional functions and buttons, increases the line size for easier input.
-
 2. [Return]: Returns to the previous state, saving the equation entered. The picture is compressed if available.
-
 3. [1-9]: Adds digits to the equation.
-
 4. [*,=, +, -, /, , (, ), ^x, √x, ^-x, sinX, cosX, tanX]: Common operators available in most calculators.
-
 5. [%]: Allows you to find the percentage of a number. Examples include complex expressions with percentages.
-
 6. [%+] && [%-]: Adds and subtracts percentages from a number. Examples demonstrate a variety of calculations.
-
 7. Dev button: Removes the last character from the equation. If the last symbol is a trigonometric function, removes 4 symbols at once.
-  
 8. C button: Completely clears the equation.
- 
 9. Ctrl: Actually Ctrl + Z, returns to the last result. Shows only the results obtained by using the "=" button.
-
 10.Return button: Compresses the form, returning to the initial view.
-
 11.Design button: Opens the possibility to change the background, offering various options and user selections.
 
 !!!All buttons can be activated either through the GUI or using the keyboard, with the exception of [√], which is activated by a mouse click.
