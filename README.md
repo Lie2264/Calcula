@@ -6,7 +6,8 @@ Multi-functional calculator
 Calcula is a versatile calculator with an extensive set of functions, providing a user-friendly and intuitive interface. From basic arithmetic operations to unique features, Calcula provides the user with a wide range of math functions.
 
 
-A brief description of the functionality:
+- A brief description of the functionality:
+
 1. Basic arithmetic operations: addition, subtraction, multiplication, division.
 2. Parentheses: the ability to use parentheses to control the order in which operations are performed.
 3. Unary minus: application of unary minus to numbers.
@@ -18,7 +19,8 @@ A brief description of the functionality:
 9. Decimal support: provides support for working with decimal numbers for accurate floating point calculations.
 
 
-Enumeration of buttons and their meaning:
+- Enumeration of buttons and their meaning:
+
 1. [?]: Pressing the question mark reveals additional functions and buttons, increases the line size for easier input.
 2. [Return]: Returns to the previous state, saving the equation entered. The picture is compressed if available.
 3. [1-9]: Adds digits to the equation.
@@ -34,9 +36,9 @@ Enumeration of buttons and their meaning:
 !!!All buttons can be activated either through the GUI or using the keyboard, with the exception of [√], which is activated by a mouse click.
 
 
-User Interface:
+- User Interface:
 
-Calcula's user interface is uniquely flexible, providing three convenient options for entering equations:
+- Calcula's user interface is uniquely flexible, providing three convenient options for entering equations:
 
 1.Button Press: Use the graphical interface to enter equations conveniently. Simply press the buttons representing numbers and operators to compose your equation.
 
@@ -44,7 +46,8 @@ Calcula's user interface is uniquely flexible, providing three convenient option
 
 3.Copy and Paste: Unique ability to copy a completed equation from another source and paste it into Calcula. Simply right click on the top line, select the equation, press Ctrl+V, and Calcula will save and calculate the result.
 
-Project uniqueness and chips:
+- Project uniqueness and chips:
+
 1.Flexible Background: Calcula provides the ability to customize the appearance with changing the background. Click the Design button to open a window with a selection of colors and ready-made backgrounds. The ability to add your own photo makes the interface even more personalized.
 
 2.Testing your own equations: A test system has been implemented and is available when you have access to the code. You can test how Calcula handles your equations by comparing the results with benchmarks.
@@ -52,7 +55,8 @@ Project uniqueness and chips:
 3.Sign error protection: Calcula prevents you from being able to place two signs in a row, ensuring that operators are placed correctly according to mathematical rules.
 
 
-About the code:
+- About the code:
+
 1. In each .cpp file, the first 5 lines describe its functionality or stored information.
    
 2.UTF-8 (UnitCode 8) encoding is used to provide support for different characters.
@@ -62,7 +66,8 @@ About the code:
 4.The logic of the calculator is implemented through recursion.
 
 
-File Structure:
+- File Structure:
+  
 Window One:
 CanAddSing.cpp, CanAddSing.h
 Logic.cpp, Logic.h
@@ -77,8 +82,7 @@ Defoult_Phor_Window2
 DesingCalculator.h
 MyForm.h
 
-
-Contact the developer of the project: 
+- Contact the developer of the project: 
 Telegram - @Lie2264
 Discord - Lie#2264
 Gmail - magicbattle1@gmail.com
@@ -119,7 +123,7 @@ Lie2264.
 Calcula -  универсальный калькулятор с обширным набором функций, предоставляющий удобный и интуитивно понятный интерфейс. От основных арифметических операций до уникальных возможностей, Calcula предоставляет пользователю широкий спектр математических функций.
 
 
-Краткое описание функциональности:
+- Краткое описание функциональности:
 1. Базовые арифметические операции: сложение, вычитание, умножение, деление.
 2. Скобки: возможность использования скобок для управления порядком выполнения операций.
 3. Унарный минус: применение унарного минуса к числам.
@@ -131,7 +135,7 @@ Calcula -  универсальный калькулятор с обширным
 9. Поддержка десятичных чисел: обеспечивает поддержку работы с десятичными числами для точных вычислений с плавающей запятой.
 
 
-Перечисление кнопок и их значение:
+- Перечисление кнопок и их значение:
 1. [?]: При нажатии на знак вопроса раскрываются дополнительные функции и кнопки, увеличивается размер строки для более удобного ввода.
 2. [Return]: Возвращает к предыдущему состоянию, сохраняя введенное уравнение. Фотография сжимается при наличии.
 3. [1-9]: Добавляют цифры в уравнение.
@@ -146,8 +150,8 @@ Calcula -  универсальный калькулятор с обширным
 !!!Все кнопки могут быть активированы как через графический интерфейс, так и с использованием клавиатуры, за исключением [√], который активируется кликом мыши.
 
 
-Интерфейс пользователя:
-Интерфейс пользователя Calcula обладает уникальной гибкостью, предоставляя три удобных варианта для ввода уравнений:
+- Интерфейс пользователя:
+- Интерфейс пользователя Calcula обладает уникальной гибкостью, предоставляя три удобных варианта для ввода уравнений:
 1.Нажатие кнопок: Используйте графический интерфейс для удобного ввода уравнений. Просто нажимайте кнопки, представляющие цифры и операторы, чтобы составить свое уравнение.
 
 2.Ввод с клавиатуры: Calcula поддерживает управление через клавиатуру. Вводите числа и операторы, используя стандартные клавиши, для быстрого и удобного создания уравнения.
@@ -155,22 +159,20 @@ Calcula -  универсальный калькулятор с обширным
 3.Копирование и вставка: Уникальная возможность скопировать готовое уравнение из другого источника и вставить его в Calcula. Просто кликните правой кнопкой мыши на верхней строке, выберите уравнение, зажмите Ctrl+V, и Calcula сохранит и вычислит результат.
 
 
-Уникальность и фишки проекта:
+- Уникальность и фишки проекта:
 1.Гибкий задний фон: Calcula предоставляет возможность настройки внешнего вида с изменением заднего фона. Нажмите кнопку Design, чтобы открыть окно с выбором цветов и готовых фонов. Возможность добавить собственную фотографию делает интерфейс еще более персонализированным.
 2.Тестирование собственных уравнений: Внедрена система тестов, доступная при наличии доступа к коду. Вы можете проверить, как Calcula обрабатывает ваши уравнения, сравнив результаты с эталонами.
-
-
 3.Защита от ошибок в знаках: Calcula предотвращает возможность поставить два знака подряд, обеспечивая корректное размещение операторов в соответствии с математическими правилами.
 
 
-О коде:
+- О коде:
 1. В каждом файле .cpp первые 5 строк описывают его функциональность или хранящуюся информацию.
 2.Используется кодировка UTF-8 (UnitCode 8) для обеспечения поддержки различных символов.
 3.Код снабжен комментариями, упрощающими понимание его логики.
 4.Логика калькулятора реализована через рекурсию.
 
 
-Структура файлов:
+- Структура файлов:
 Window One:
 CanAddSing.cpp, CanAddSing.h
 Logic.cpp, Logic.h
@@ -186,7 +188,7 @@ DesingCalculator.h
 MyForm.h
 
 
-Связаться с разработчиком проекта: 
+- Связаться с разработчиком проекта: 
 Telegram – @Lie2264
 Discord – Lie#2264
 Gmail – magicbattle1@gmail.com
